@@ -107,7 +107,9 @@ SQL
 SELECT * FROM c WHERE c.category = "Electronics"
 Click Execute Query.
 
-Connecting to Azure Cosmos DB from your Application:
+<img width="1281" height="459" alt="image" src="https://github.com/user-attachments/assets/799fd901-fd59-458a-886d-fb5f4003627d" />
+
+### Connecting to Azure Cosmos DB from your Application:
 
 To use Azure Cosmos DB in your application, you'll typically use one of the Azure Cosmos DB SDKs (available for .NET, Java, Node.js, Python, and more).
 
@@ -129,15 +131,6 @@ Performing CRUD (Create, Read, Update, Delete) operations on items.
 
 This provides a foundational understanding of Azure Cosmos DB and how to get started with it. The specifics of data modeling, partitioning strategy, and application development will depend on your specific use case.
 
-
-Sources
-
-
-
-
-
-
-k
 
 
 
